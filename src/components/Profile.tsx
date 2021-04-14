@@ -9,9 +9,9 @@ export function Profile() {
 
     return(
         <div className={styles.profileContainer}>
-            <img src="https://avatars.githubusercontent.com/u/43611589?s=460&u=118b79ca317b4de43b19eb0ed0820d3799af9754&v=4" alt="Henrique Teixeira"/>
+            <img src="https://avatars.githubusercontent.com/u/78079642?v=4" alt="Avatar Bellmont Sistema"/>
             <div>
-                <strong>Henrique Teixeira</strong>
+                <strong>Bellmont Sistema</strong>
                 <p>
                     <img src="icons/level.svg" alt="Level"/>
                     Level {level}
